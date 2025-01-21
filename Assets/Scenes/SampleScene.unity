@@ -455,7 +455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4285a46a97108774c82fd21374a3c7c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  instance: 1000
+  instance: 10000
   batchSize: 1000
   mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
   material: {fileID: 2100000, guid: 1692cab478d27ff42aea94e5e8be1968, type: 2}
